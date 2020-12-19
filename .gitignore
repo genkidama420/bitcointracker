@@ -1,0 +1,14 @@
+tracker.spec
+__pycache__/tracker.cpython-38.pyc
+build/tracker/Analysis-00.toc
+build/tracker/base_library.zip
+build/tracker/EXE-00.toc
+build/tracker/PKG-00.pkg
+build/tracker/PKG-00.toc
+build/tracker/PYZ-00.pyz
+build/tracker/PYZ-00.toc
+build/tracker/tracker.exe.manifest
+build/tracker/Tree-00.toc
+build/tracker/Tree-01.toc
+build/tracker/warn-tracker.txt
+build/tracker/xref-tracker.html

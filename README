@@ -1,0 +1,3 @@
+Just a small little bitcoin tracker to test around with beautiful soup webscraping.
+Checks Google bitcoin course prices in Euro every 5 minutes and updates the percentages from the last value.
+Runs in a cmd window, since it does nothing else than display text.
